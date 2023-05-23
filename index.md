@@ -2,24 +2,30 @@
 
 ---
 
-### Category Name 1 
+### Data Analysis projects with R 
 
-[Project 1 Title](/sample_page)
+[Exploratory data Analysis on Supermarket sales](https://rpubs.com/ABAKI/950199)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Google Capstone Project]((https://rpubs.com/ABAKI/963426))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Visualising Covid 19](notebook (3).ipyn)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Level-dificulty-in-Candy-Crush-saga](notebook (1).ipynb)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+[Rise-fall-of-programming-languages](notebook.ipynb)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Data Analaysis project with SQL
+
+- [Analyze-International-Debt-Statistics](notebook.ipynb)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
